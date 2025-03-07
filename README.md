@@ -1,7 +1,9 @@
 # Faith@Work
 A browser-based app called Faith@Work, to connect Christians at their workplace
 
-Developed by Tommy Lim, John Yong, Chin Wanying, Kenny Tan, Bryan Sim, Peter Tan during [#HACK2024](https://hack.indigitous.org/hack2024/)
+![](https://github.com/HACK2024-Global-Hackathon/faith-at-work-image-store/blob/cdec3fb2a9a07997a0757aa7e185e5e8f68db1ec/assets/Groupphoto.jpg)
+
+Developed by (from left) John Yong, Kenny Tan, Tommy Lim, Chin Wanying, Peter Tan, Bryan Sim, mentored by Roger Yeo during [#HACK2024](https://hack.indigitous.org/hack2024/)
 
 # Introduction
 This project was done as part of the #HACK2024 hackathon in October 2024 with a team of 5 hackathon participants. As part of the missional challenge to gather Christians at the workplace, over a 7-day hack, we ideated and created a browser-based app called Faith@Work, which connects Christians through activities and events near their workplace.
